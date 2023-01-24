@@ -1,1 +1,30 @@
-{"CrossStitchSeries":["204772","207035"],"CrossStitchSeriesImages":["https://deronics.github.io/crossstitch2/icons/icon_series1.png","https://deronics.github.io/crossstitch2/icons/icon_series2.png"],"StudioGames":["185110","187766","199752","180477"],"StudioGamesImages":["https://deronics.github.io/crossstitch2/icons/icon_other1.png","https://deronics.github.io/crossstitch2/icons/icon_other2.png","https://deronics.github.io/crossstitch2/icons/icon_other3.png","https://deronics.github.io/crossstitch2/icons/icon_other4.png"]}
+{
+  "CrossStitchSeries": [
+    {
+      "AppId": "204772",
+      "ImageLink": "https://deronics.github.io/crossstitch2/icons/icon_series1.png"
+    },
+    {
+      "AppId": "207035",
+      "ImageLink": "https://deronics.github.io/crossstitch2/icons/icon_series2.png"
+    }
+  ],
+  "StudioGames": [
+    {
+      "AppId": "185110",
+      "ImageLink": "https://deronics.github.io/crossstitch2/icons/icon_other1.png"
+    },
+    {
+      "AppId": "187766",
+      "ImageLink": "https://deronics.github.io/crossstitch2/icons/icon_other2.png"
+    },
+    {
+      "AppId": "199752",
+      "ImageLink": "https://deronics.github.io/crossstitch2/icons/icon_other3.png"
+    },
+    {
+      "AppId": "180477",
+      "ImageLink": "https://deronics.github.io/crossstitch2/icons/icon_other4.png"
+    }
+  ]
+}
